@@ -1,17 +1,24 @@
+/*
+
 * {
-
     outline: 1px solid #14839f
-
 }
+
+*/
+
+/* this is for the main page*/
 
 body {
 
     background-color: #eecea7;
+    font-family: "new-astro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 header {
 
-    background-color: rgb(241, 156, 72);
+    background-color: #f19c48;
     text-align: center;
     font-size: 60pt;
 
@@ -22,25 +29,35 @@ header {
     padding-bottom: 30px;
     padding-right: 0px;
 
-
+    font-family: "highest-praise", sans-serif;
+    font-weight: 200;
+    font-style: normal;
 }
-nav {
 
+nav {
     background-color: #442302;
     text-align: center;
     padding: 20px 0px;
-
 }
 
-a{
+a {
     color:beige;
     font-size: 36pt;
 }
 
 nav > a {
-
     padding: 30px;
     margin: 20px 50px;
+}
+
+
+main {
+    text-align: center;
+    padding: 0px 20% 0px 20%;
+}
+
+img {
+    width: 50%;   /* this helps to make it responsive*/
 }
 
 <h1 {
@@ -50,16 +67,28 @@ nav > a {
     padding-top: 40px;
     padding-left: 20px;
     padding-bottom: 40px;
-
 }
 
 p {
-color:#442302;
-
+    color:#442302;
+    font-size: 18pt;
 }
 
 header > h1 {
-
-
-    color: #886313
+    color: #5a2c07
 }
+
+footer {
+    background-color: #ac8658;
+    color: whitesmoke;
+    min-height: 100px;
+    text-align: center;
+}
+
+footer > p {
+
+    color: #dc9288;
+    padding: 50px;
+}
+
+/* comment comment note note (does not show on the page)*/
