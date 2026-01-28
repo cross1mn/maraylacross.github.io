@@ -1,0 +1,136 @@
+/*
+
+* {
+    outline: 1px solid #14839f
+}
+
+*/
+
+
+p#ssn {
+    color: brown;
+    text-indent: 40px;
+}
+/*
+p#statusResult {
+    color: rgb(26, 36, 167);
+}
+
+#cool {
+    color: rgb(78, 67, 2);
+    text-decoration: underline;
+    text-indent: 30%;
+}
+*/
+
+body {
+
+    font-size: 14pt;
+    text-align: center;
+}
+
+.blue {
+color: blue;
+}
+
+.pink {
+    color: rgb(196, 3, 93);
+}
+
+.red {
+color: red;
+}
+
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.twentyfour {
+
+    font-size: 80pt;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.bubblefont {
+    font-family: "blow-up", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.future {
+    font-family: "am-futurismo", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.rl {
+    font-family: "rl-folklor", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.beowolf {
+    font-family: "ltr-beowolf-r22", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.gorgias {
+    font-family: "gorgias-deco", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.flame {
+    font-family: "cc-flame-on", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lightshade {
+
+    background-color: rgb(255, 247, 236);
+
+}
+
+.darkshade {
+
+background-color: rgb(221, 204, 181);
+
+}
+
+p.shaded {
+
+background-color: aquamarine;
+padding-top: 10pt 20pt ;
+
+}
+
+/* sets rules and if and statements */
+h2.shaded {
+
+background-color: rgb(91, 163, 139);
+
+}
+
+h1#pgTitle {
+    color: blueviolet;
+}
+
+
